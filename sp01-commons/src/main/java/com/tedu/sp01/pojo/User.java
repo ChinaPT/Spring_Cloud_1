@@ -12,8 +12,5 @@ public class User {
 	private String username;
 	private String password;
 	
-	//111111111111111111111
-	//333333333333333333333
-	//156145645
 
 }
